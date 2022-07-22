@@ -1,0 +1,17 @@
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\bin\Debug\net6.0-windows\soapApi.exe
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\bin\Debug\net6.0-windows\soapApi.deps.json
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\bin\Debug\net6.0-windows\soapApi.runtimeconfig.json
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\bin\Debug\net6.0-windows\soapApi.dll
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\bin\Debug\net6.0-windows\soapApi.pdb
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.Form1.resources
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.csproj.GenerateResource.cache
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.AssemblyInfo.cs
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.dll
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\refint\soapApi.dll
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.pdb
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\soapApi.genruntimeconfig.cache
+C:\Users\mertg\source\repos\SinavCalisma\soapApi\obj\Debug\net6.0-windows\ref\soapApi.dll
