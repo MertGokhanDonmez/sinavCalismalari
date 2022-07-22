@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\bin\Debug\net6.0\encapsulation_inheritance.exe
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\bin\Debug\net6.0\encapsulation_inheritance.deps.json
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\bin\Debug\net6.0\encapsulation_inheritance.runtimeconfig.json
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\bin\Debug\net6.0\encapsulation_inheritance.dll
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\bin\Debug\net6.0\encapsulation_inheritance.pdb
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.AssemblyInfo.cs
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.dll
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\refint\encapsulation_inheritance.dll
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.pdb
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\encapsulation_inheritance.genruntimeconfig.cache
+C:\Users\mertg\source\repos\SinavCalisma\encapsulation_inheritance\obj\Debug\net6.0\ref\encapsulation_inheritance.dll
